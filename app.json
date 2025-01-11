@@ -108,8 +108,8 @@
     "NUMERO_OWNER":
     {
       
-    "description":"Enter here the number that is hosting the bot Eg, 254xxxxxxx",   
-      "value":"",
+    "description":" 252619795445",   
+      "value":"252619795445"",
     "required":true
       
     },
@@ -121,7 +121,7 @@
     "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
   },
     "SESSION_ID":{
-    "description":"put your session ID , the code you received from from ibrahim adams site",   
+    "description":"BWM-XMD;;;H4sIAAAAAAAAA5VUWZOqOBj9L3nFe5tFWazqqhFEcEFwQVun7kMkASJ7ABG7/O9T2N3V/TD3Ts9bKpCTk7N8ryDNSInnuAXDV5BTcoEV7pZVm2MwBGrt+5iCHkCwgmAIap2gF0xIX1puZLG4Iikst8zLopmF+dYdLwtT9481GQeC/gzuPZDXp5h4fwCcqrOF468Ou816R9F1UWnMyTzFtxek2dpUY+36vGmKUCZ88AzuHSIklKSBnoc4wRTGc9w6kNDv0V+ZjMwW3l49OXlRMes03Zar1TpHyqKI89NRUvZ5jJpFHMvfo7+c8swLt4qknC53Kxoxor1yoDtxia6el008ekFSZEQsYtk3+iUJUoymCKcVqdpv657YWsLhbZ6Gdc0YprqZy5MkF9iFs5KvcFmvCnVkHufjDbf6HnHsm6uwFlrxKnIjQ9aDIjqnxlJe46MthE+zkT8SFAk5+ib4StyhH1mJ/o/utfbU7JvGzKjr5DmVr8VGNrb6xIaDQaMZFntjplXm8pLgfo++T/V6H64vy3CVSftitucmuhdFraQwVi3YTiGwDK8YqZ24n/RhVdM/sXTrU784Nku12J13u+3u4KDsMrAmpZQZ431STMoqMXaGmu+iWRMpI+dpynKpF/FoGZ7DnMjTRtMpVF92RrqNWGZk7ui4eX68KMLtFIEhd+8BigNSVhRWJEsfe5zcAxBdNtijuHrIC8ZuQ5vYM0d+xLKJNE3rW8R6V6wyZ6Y17Ke+kClX52wu3P4z6IGcZh4uS4xMUlYZbS1cljDAJRj+/asHUnyt3ozrrhO4HvAJLSs3rfM4g+jD1Y+P0POyOq02bepp3QJTMGQ/t3FVkTQoOx3rFFIvJBeshbAqwdCHcYnvPYDwhXi4wwOGY1m8eBtvp8TSzE0fNXySNx3lMEvffhE9biArWP7BSkj80eeQ8kNB/umHIks8VOSTj1gEeoC8d6Y781sLt2I+DvfhmlHWXDNOykaexm1eX3g1etjwpj2mGIFhRWvcAyfoRXW+zSKc/gH3NiDqvMBluBat4ylQFHGsa4Glu9ZX3DdPwfD1c05pGerwNnPtcOQPIuiB5BFB0r2cH/Aip0jKoN8fDDn5r/Jn0wkJ8/xniqsO91307gTCFSRxCYZAm2+IkpWmPhP2RGoMQ7WCkRaMwKdJH2l/S9Pt2ljGxT2pkjazTsgdRXyjnDGK2PHcfiq4XTuW1uezPtiunv8FpLvyWOoowAe62MEx2UizW6oPfPHCn/vZVjDNp6K8Drj94AWOszoMdd4k1qo2++YU8mEra3I/qdogTuyzdEtyO+iLzUTrqvERlq+XcXMxyiZqfQ2lgbrwRCeIxXK9aC3B9r10r5lPo5JhXVrNSlynZuzqjbe30dGZTI+aTza3aXDdy2KTeiw3W9rkphxiNXjr4WMOxO/zlzwa8voeLZ/gxzhLYWfRf5nzNeXsvfcF431A/iZJqid7Y5VyRoMbsjWE3Wi2LJ2DkB6Xo/Z8EaudFzDsoX+1XRbc7796II9h5Wc0AUMAU0Qz0rUhhmU1+izqliS4rGCSgyEnCaIoCJzA3v8ByT7YXN4HAAA= ",   
       "value":"",
      "required":true
   },
