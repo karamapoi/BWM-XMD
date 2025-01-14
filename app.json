@@ -75,7 +75,7 @@
       "required":false
     }
     ,
-    "BOT_NAME" : {
+    "BOT_NAME"BWM-XMD : {
        
       "description":"put A name for your bot",
       "value":"BWM-XMD",
@@ -105,7 +105,7 @@
      "required" :false
     }  
 	  ,
-    "NUMERO_OWNER":
+    "NUMERO_OWNER"252619795445:
     {
       
     "description":" 252619795445",   
