@@ -9,67 +9,67 @@
     "PREFIX":
     {
       "description":"choose your prefix for your bot",
-      "value":".",
-      "required":true
+      "value":".BWM-XMD",
+      "required":false
     },
 "AUTO_REACT":
     {
       "description":"Enter yes for your bot to auto react",
-      "value":"no",
+      "value":"BWM-XMD",
       "required":false
     },
 "AUTO_SAVE_CONTACTS":
     {
       "description":"Enter yes for your bot to auto save numbers",
-      "value":"no",
+      "value":"BWM-XMD",
       "required":false
     },
 "AUTO_REACT_STATUS":
     {
       "description":"Enter yes for your bot to auto react status",
-      "value":"yes",
+      "value":"BWM-XMD",
       "required":false
     },
 "ANTICALL":
     {
       "description":"Enter yes for your bot to auto reject calls",
-      "value":"no",
+      "value":"BWM-XMD",
       "required":false
     },
 "AUTO_REPLY":
     {
       "description":"Enter yes for your bot to auto reply message when offline",
-      "value":"no",
+      "value":"BWM-XMD",
       "required":false
     },
 "AUTO_BIO":
     {
       "description":"Enter yes for your bot to auto bio or no to decline",
-      "value":"yes",
+      "value":"BWM-XMD",
       "required":false
     },
 
     "AUTO_READ_STATUS":
     {
       "description":"Your status will be reading automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"yes",
+      "value":"BWM-XMD",
       "required":false
     }, "AUTO_DOWNLOAD_STATUS":
     {
       "description":"You status will be sending status to your inbox automatically (type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"no",
+      "value":"BWM-XMD",
       "required":false
     },
     "AUTO_READ":
     {
       "description":"Your contact  will be reading messages automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"no",
+      "value":"BWM-XMD",
       "required":false   
       },
      "PM_PERMIT" :
      {
       "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"no",
+      "value":"BWM-XMD",
       "required":false
     }
     ,
@@ -90,7 +90,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"BWM-XMD",
       "required":false
     }
 	,
@@ -119,7 +119,7 @@
     "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
   },
     "SESSION_ID":{
-    "description":"BWM-XMD;;;H4sIAAAAAAAAA5VUWZOqOBj9L3nFe5tFWazqqhFEcEFwQVun7kMkASJ7ABG7/O9T2N3V/TD3Ts9bKpCTk7N8ryDNSInnuAXDV5BTcoEV7pZVm2MwBGrt+5iCHkCwgmAIap2gF0xIX1puZLG4Iikst8zLopmF+dYdLwtT9481GQeC/gzuPZDXp5h4fwCcqrOF468Ou816R9F1UWnMyTzFtxek2dpUY+36vGmKUCZ88AzuHSIklKSBnoc4wRTGc9w6kNDv0V+ZjMwW3l49OXlRMes03Zar1TpHyqKI89NRUvZ5jJpFHMvfo7+c8swLt4qknC53Kxoxor1yoDtxia6el008ekFSZEQsYtk3+iUJUoymCKcVqdpv657YWsLhbZ6Gdc0YprqZy5MkF9iFs5KvcFmvCnVkHufjDbf6HnHsm6uwFlrxKnIjQ9aDIjqnxlJe46MthE+zkT8SFAk5+ib4StyhH1mJ/o/utfbU7JvGzKjr5DmVr8VGNrb6xIaDQaMZFntjplXm8pLgfo++T/V6H64vy3CVSftitucmuhdFraQwVi3YTiGwDK8YqZ24n/RhVdM/sXTrU784Nku12J13u+3u4KDsMrAmpZQZ431STMoqMXaGmu+iWRMpI+dpynKpF/FoGZ7DnMjTRtMpVF92RrqNWGZk7ui4eX68KMLtFIEhd+8BigNSVhRWJEsfe5zcAxBdNtijuHrIC8ZuQ5vYM0d+xLKJNE3rW8R6V6wyZ6Y17Ke+kClX52wu3P4z6IGcZh4uS4xMUlYZbS1cljDAJRj+/asHUnyt3ozrrhO4HvAJLSs3rfM4g+jD1Y+P0POyOq02bepp3QJTMGQ/t3FVkTQoOx3rFFIvJBeshbAqwdCHcYnvPYDwhXi4wwOGY1m8eBtvp8TSzE0fNXySNx3lMEvffhE9biArWP7BSkj80eeQ8kNB/umHIks8VOSTj1gEeoC8d6Y781sLt2I+DvfhmlHWXDNOykaexm1eX3g1etjwpj2mGIFhRWvcAyfoRXW+zSKc/gH3NiDqvMBluBat4ylQFHGsa4Glu9ZX3DdPwfD1c05pGerwNnPtcOQPIuiB5BFB0r2cH/Aip0jKoN8fDDn5r/Jn0wkJ8/xniqsO91307gTCFSRxCYZAm2+IkpWmPhP2RGoMQ7WCkRaMwKdJH2l/S9Pt2ljGxT2pkjazTsgdRXyjnDGK2PHcfiq4XTuW1uezPtiunv8FpLvyWOoowAe62MEx2UizW6oPfPHCn/vZVjDNp6K8Drj94AWOszoMdd4k1qo2++YU8mEra3I/qdogTuyzdEtyO+iLzUTrqvERlq+XcXMxyiZqfQ2lgbrwRCeIxXK9aC3B9r10r5lPo5JhXVrNSlynZuzqjbe30dGZTI+aTza3aXDdy2KTeiw3W9rkphxiNXjr4WMOxO/zlzwa8voeLZ/gxzhLYWfRf5nzNeXsvfcF431A/iZJqid7Y5VyRoMbsjWE3Wi2LJ2DkB6Xo/Z8EaudFzDsoX+1XRbc7796II9h5Wc0AUMAU0Qz0rUhhmU1+izqliS4rGCSgyEnCaIoCJzA3v8ByT7YXN4HAAA= ",   
+    BWM-XMD;;;H4sIAAAAAAAAA5VV25KqOBT9l7xqH7mKWtVVg6goinhBBadOTQUIGLlKggJd/vsptLu6H+ac6XlLhWTtlbXW3ryBJMUEzVEFBm8gy/EVUtQsaZUhMADDwvdRDtrAgxSCAYCrcTSORS28ClWiLHwrVJOenrQKNY+hrF/WAnIisjUn+90ruLdBVjgRdv8AeBC629P6WupcHGllp3MrvWBaVaJrmJWA+UU6k4NWfpFUnL6Ce4MIcY6TYJydUIxyGM1RtYI4/x59pCxKurUtzd9oEstG4dkWhsv1pLqss824eytalaie98aYSb9Hv5Wx06NxKHE+9GeCflI8++qxfBFfA3Iw7eHN7tL8NkdSOX7SJzhIkDfzUEIxrb6t+1bvQSat6fnUTYctw12yk3Bpl53U43fVPuLTnXDytNJSD8E3iQtxqVszR46yzdg5yrM0WrnhcZSHUNBsqG7G7qJkF+VY3X0lvso/shL+H91bo9XVil1zGylBaUnZxbZoVcFQCrGm+d0+t95sgqNJjf3te/T1mbpWee6qRmKxJrXbOkbnoz7VDx3nxBo7/SAwxqWjqVpAPulDWuR/YnmIev3LbciuGWO+VzsrV9x4zn6/onbsnEN4Ndd5yZxDoS8cMTdenoSyuoT2ZbnoZrw+8nd1etG0ud0xpkNfqgNblVdbef36eFGIqpkHBuy9DXIUYEJzSHGaPPZEpg2gd90iN0f0IS+wJnFpwPVeI3xkKbLem19Gl+hWBpq4iYfFtLdbZUyHWOxt9graIMtTFxGCvCkmNM0rHRECA0TA4O+fbZCgkj6Na8rxbBv4OCd0lxRZlELvw9WPj9B10yKh2ypxlWaBcjBgPrcRpTgJSKNjkcDcPeErUk6QEjDwYUTQvQ08dMUuavAAni7oP3253LCYGqHPkZ414oOG8ilNnkekrsfzAi++9JEjvggi6730JNZ74XoOdLqwK3RFAbQBfu+Z5s5vLdx4UuWfziqqhe2ZK3bzPgerKjxWgv6w4ak9ypEHBjQvUBs40A2LzExDlPwBdw+97Vmvedc0D71ppY38slU7ccH2dl9wn56CwdvnnFJSr8Hj5iJrylMJtEH8iCBuXs6JXJftS31REMQB2/+L/Lg1QsIs+5Eg2uC+i97c8BCFOCJgAJSFiUMojMbLjhg7N1WVx4GsBDL4NOkj7c80kcOm7tKlPpkgwluKs62NU4eZ1aNj7zBUV6qyz4cdU5pmOHj9FxAwAKsWW4eX1DoR2Ou516XvYCe+qP7kKDB6va/UOUcE37j0hUA+koLpjKCK1I216q+GfVxxvGMNr+Wis0OszUzS0CLLkSK/NtWeYflarM4NvjTlM9Kv7hYJkT6e2pP92mDg9ChosYL7G469KGtJPrCdtJ7EZO2GaBQGLWgvrint3M7CMTUCPl9MBIWf7KxMHAXPPnzMgeh9/uJHh7y9R8vH6DHOEhij/zbna8qZe/sLxvuA/E2Shs4kdFu5aQ43Vr5kbzFD6tTvK/qN8yfB5lwGEbz5TKvs2im433+2QRZB6qd53Px+Ey9PsQfaIIKEyp+NauIYEQrjDAxYie/2uhIj8vdfl/duWN4HAAA== ",   
       "value":"",
      "required":true
   },
